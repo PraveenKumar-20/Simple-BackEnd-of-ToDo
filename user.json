@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "todo": {
+      "title": "Go To Gym",
+      "description": "Wake Up at 5:00am and Head to Gym"
+    }
+  },
+  {
+    "id": 3,
+    "todo": {
+      "title": "Travelling",
+      "description": "Travel to Paris with your friends"
+    }
+  },
+  {
+    "id": 4,
+    "todo": {
+      "title": "Coding",
+      "description": "Code for 2hrs"
+    }
+  },
+  {
+    "id": 5,
+    "todo": {
+      "title": "Spiritual",
+      "description": "Read Bhagvadgita for 1 hr"
+    }
+  },
+  {
+    "id": 81,
+    "title": "Outdoor",
+    "description": "Ride the Car"
+  }
+]
